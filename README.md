@@ -1,21 +1,31 @@
 notes
 =====
 
+make repl, sort of
+------------------
+
+```Makefile
+#run make '$(expression)' to see what make things the expression evaluates to from your rules
+$$%:;@$(call true)$(info $(call or,$$$*))
+```
+
 make + cabal
 ------------
 
 ```Makefile
+#run make T=target to trigger the build for target exe
 O=dist/build
 D=dist/setup-config
+A=#
 
-ifeq (,$T)
-T=test
+ifneq ($(strip $T),)
+A=$O/$T/$T
 endif
 
-all:$O/$T/$T
+all:$A
 
 $O/%:$(shell find . -not -path "*dist/build/*" -iname "*.hs") $D
-	cabal buil
+	cabal build
 	touch $@
 
 clean:
