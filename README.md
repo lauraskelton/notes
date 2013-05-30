@@ -29,7 +29,7 @@ $D:$(wildcard *.cabal)
 
 .vimrc
 ------
-```vimrc
+```VimL
 :syntax on
 :set nowrapscan
 :set autoindent
