@@ -1,8 +1,8 @@
 notes
 =====
 
-counting args with CPP
-----------------------
+counting args with C macros
+---------------------------
 
 ```C
 #define COUNT_ARGS(...) COUNT_ARGS_(__VA_ARGS__,3,2,1)
