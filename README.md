@@ -1,6 +1,24 @@
 notes
 =====
 
+counting args with CPP
+----------------------
+
+```C
+/**
+ * getting apis with fixed number of arguments to behave like they are variadic
+ */
+
+#define PASTE(a,b) PASTE_(a,b)
+#define PASTE_(a,b) a##b
+#define COUNT_ARGS(args...) COUNT_ARGS_(args,9,8,7,6,5,4,3,2,1,0)
+#define COUNT_ARGS_(a,b,c,d,e,f,g,h,i,j,cnt,...) cnt
+
+#define DO_1(a) do1(a)
+#define DO_2(a,b) do2(a,b)
+#define DO_V(args...)  PASTE(DO_,COUNT_ARGS(args))(args)
+```
+
 make repl, sort of
 ------------------
 
