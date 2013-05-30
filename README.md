@@ -5,19 +5,33 @@ counting args with CPP
 ----------------------
 
 ```C
-/**
- * getting apis with fixed number of arguments to behave like they are variadic
- */
+#define COUNT_ARGS(...) COUNT_ARGS_(__VA_ARGS__,3,2,1)
+#define COUNT_ARGS_(a,b,c,cnt,...) cnt
 
-#define PASTE(a,b) PASTE_(a,b)
-#define PASTE_(a,b) a##b
-#define COUNT_ARGS(args...) COUNT_ARGS_(args,9,8,7,6,5,4,3,2,1,0)
-#define COUNT_ARGS_(a,b,c,d,e,f,g,h,i,j,cnt,...) cnt
+#define C_ASSERT(test) \
+    switch(0) {\
+      case 0:\
+      case test:;\
+    }
 
-#define DO_0            func
-#define DO_1(a)         func1(a)
-#define DO_2(a,b)       func2(a,b)
-#define DO_V(args...)   PASTE(DO_,COUNT_ARGS(args))(args)
+int main() {
+   //broken for 0 arguments because there is no way to consume the comma after __va_args__
+   C_ASSERT(1 ==  COUNT_ARGS());
+   C_ASSERT(1 ==  COUNT_ARGS(a));
+   C_ASSERT(2 ==  COUNT_ARGS(a,b));
+   C_ASSERT(3 ==  COUNT_ARGS(a,b,c));
+}
+```
+
+compile time assert
+-------------------
+
+```C
+#define C_ASSERT(test) \
+    switch(0) {\
+      case 0:\
+      case test:;\
+    }
 ```
 
 make repl, sort of
