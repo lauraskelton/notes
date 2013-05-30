@@ -25,7 +25,7 @@ int main() {
    C_ASSERT(3 ==  COUNT_ARGS(a,b,c));
    C_ASSERT(4 ==  COUNT_ARGS(a,b,c,d));
    C_ASSERT(5 ==  COUNT_ARGS(a,b,c,d,e));
-   C_ASSERT(6 ==  COUNT_ARGS(a,b,c,d,e,g));
+   C_ASSERT(6 ==  COUNT_ARGS(a,b,c,d,e,f));
 }
 ```
 
