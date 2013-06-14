@@ -80,9 +80,8 @@ Might as well do scheme next :).
 
 //MAP :: (a -> b) -> [a] -> b
 #define MAP(func,lst)  FOLDR((MAP_,func),(),lst)
-#define MAP_(func,aa,acc)  JOIN((EVAL(CURRY(func,(aa)))), acc)
-
-#define EVAL_MP(f) EVAL1_ f 
+#define MAP_(func,aa,acc)  JOIN((EVAL_MP(CURRY(func,(aa)))), acc)
+#define EVAL_MP(f) EVAL_MP_ f 
 #define EVAL_MP_(f,...) f(__VA_ARGS__)
 
 int main(void) {
