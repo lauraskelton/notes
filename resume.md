@@ -21,13 +21,11 @@ test framework that simulates every exception to get near 100%
 code and branch coverage. For fun I enjoy working with AI algorithms,
 like back-propagation, Bayes inference, and Markov models.
 
-EDUCATION
----------
+### EDUCATION ###
 UIUC, Bachelor of Science in Computer Science, 2003
 
-WORK EXPERIENCE
----------------
-### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ###
+### WORK EXPERIENCE ###
+#### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * 2011 - Present. Hexagon DSP SDK.
       * High performance RPC between application processor and dsp.
         10 fold reduction in latency over 3 previous implementations,
@@ -66,23 +64,22 @@ WORK EXPERIENCE
         thousands of transactions per second from many networked
         components (C++).
 
-### Software Developer, Alescere LLC, Lisle IL, 2001 to 2003. ###
+#### Software Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
    * Founding member of a VoIP startup.
    * Implemented SIP and RTP protocol stacks, and server components
      for a VoIP system for small businesses  (C++).
 
-### Research Assistant, Senior Design, UIUC, 2003 ###
+#### Research Assistant, Senior Design, UIUC, 2003 ####
    * QoS for the Apache Web server (C++).
    * Probabilistic scheduler for the Linux kernel (C).
    * roaming protocol for 80.11 networks for NetBSD (C).
 
-### Personal Research ###
+#### Personal Research ####
   * used and implemented and optimized, neural networks, genetic
     algorithms, markov chains, and bayes inference algorithms,
     over gigabytes of data entirely for fun  (mostly Haskell, some C).
 
-HOBBIES
--------
+### HOBBIES ###
    * Underwater hockey (was an alternate for 2008 world championships)
    * ironman triathlons
    * surfing
