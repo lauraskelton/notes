@@ -222,6 +222,9 @@ $D:$(wildcard *.cabal)
 :map <tab> <C-w><C-w>
 :set wildmode=longest,list,full
 :set wildmenu
+"underline spell check
+:hi clear SpellBad
+:hi SpellBad cterm=underline
 "sane highlights for vimdiff
 highlight DiffAdd term=reverse cterm=bold ctermbg=green ctermfg=white
 highlight DiffChange term=reverse cterm=bold ctermbg=cyan ctermfg=black
