@@ -1,5 +1,5 @@
 ANATOLY YAKOVENKO
-=================
+-----------------
 5775 Morehouse Drive  
 San Diego, CA, 92121  
 (858) 853-8659  
@@ -27,7 +27,7 @@ UIUC, Bachelor of Science in Computer Science, 2003
 
 WORK EXPERIENCE
 ---------------
-## Engineer, Qualcomm, San Diego CA, December 2003 to Present. ###
+### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ###
    * 2011 - Present. Hexagon DSP SDK.
       * High performance RPC between application processor and dsp.
         10 fold reduction in latency over 3 previous implementations,
