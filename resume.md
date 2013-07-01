@@ -1,8 +1,8 @@
 ANATOLY YAKOVENKO
 -----------------
-852 Dewitt
-Encinitas CA 92024
-(858) 853-8659  
+852 Dewitt  
+Encinitas CA 92024  
+(858) 853-8659 
 aeyakovenko@gmail.com  
 
 
