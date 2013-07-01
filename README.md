@@ -213,6 +213,7 @@ $D:$(wildcard *.cabal)
 :set autoindent
 :set expandtab
 :set tabstop=3
+:set ruler
 :set shiftwidth=3
 :set ignorecase
 :set smartcase
