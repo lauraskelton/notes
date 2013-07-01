@@ -68,7 +68,7 @@ UIUC, Bachelor of Science in Computer Science, 2003
    * Founding member of a web platform for managing donations.
    * Web backend developer (Haskell).
 
-#### Software Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
+#### Fonder/Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
    * Founding member of a VoIP startup.
    * Implemented SIP and RTP protocol stacks, and server components
      for a VoIP system for small businesses  (C++).
