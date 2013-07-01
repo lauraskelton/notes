@@ -64,9 +64,9 @@ UIUC, Bachelor of Science in Computer Science, 2003
         thousands of transactions per second from many networked
         components (C++).
 
-#### Founder/Developer, IContrib, San Deigo CA, 2012. ####
+#### Founder/Developer, IContrib, San Diego CA, 2012. ####
    * Founding member of a web platform for managing donations.
-   * Web Backend developer (Haskell).
+   * Web backend developer (Haskell).
 
 #### Software Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
    * Founding member of a VoIP startup.
@@ -80,10 +80,10 @@ UIUC, Bachelor of Science in Computer Science, 2003
 
 #### Personal Research ####
   * used and implemented and optimized, neural networks, genetic
-    algorithms, markov chains, and bayes inference algorithms,
+    algorithms, Markov chains, and Bayes inference algorithms,
     over gigabytes of data entirely for fun  (mostly Haskell, some C).
 
 ### HOBBIES ###
-   * Underwater hockey (was an alternate for 2008 world championships)
-   * ironman triathlons
-   * surfing
+   * Underwater hockey (was an alternate for 2008 world championships).
+   * Ironman triathlons
+   * Surfing
