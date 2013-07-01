@@ -64,6 +64,10 @@ UIUC, Bachelor of Science in Computer Science, 2003
         thousands of transactions per second from many networked
         components (C++).
 
+#### Founder/Developer, IContrib, San Deigo CA, 2012. ####
+   * Founding member of a web platform for managing donations.
+   * Web Backend developer (Haskell).
+
 #### Software Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
    * Founding member of a VoIP startup.
    * Implemented SIP and RTP protocol stacks, and server components
