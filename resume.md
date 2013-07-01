@@ -72,7 +72,7 @@ UIUC, Bachelor of Science in Computer Science, 2003
 #### Research Assistant, Senior Design, UIUC, 2003 ####
    * QoS for the Apache Web server (C++).
    * Probabilistic scheduler for the Linux kernel (C).
-   * roaming protocol for 80.11 networks for NetBSD (C).
+   * roaming protocol for 802.11a/b networks for NetBSD (C).
 
 #### Personal Research ####
   * used and implemented and optimized, neural networks, genetic
