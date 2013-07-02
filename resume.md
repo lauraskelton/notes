@@ -44,23 +44,23 @@ UIUC, Bachelor of Science in Computer Science, 2003
            languages).
       * tools
          * IDL compiler (Haskell).
-         * strace tools for on device debugging (Haskell and Lua).
-         * elf manipulation tool for post build image modification
+         * Strace tools for on device debugging (Haskell and Lua).
+         * Elf manipulation tool for post build image modification
            (Lua).
          * IDL based component and test generation tool for rapid
            prototyping (Haskell + Lua).
-         * module configuration tool (Lua).
+         * Module configuration tool (Lua).
       * optimizations
-         * assembly optimizations for RPC invocations from user to
+         * Assembly optimizations for RPC invocations from user to
            kernel.
-         * optimized stack usage during on demand dynamic module
+         * Optimized stack usage during on demand dynamic module
            loading.
-         * code generation optimizations for performance and stack
+         * Code generation optimizations for performance and stack
            and heap usage for the C IDL backend.
    * 2003 - 2005.  QChat, "Push to Talk" server
-      * implemented network components using SIP/HTTP/RTP and
+      * Implemented network components using SIP/HTTP/RTP and
         proprietary standards (C++).
-      * developed high performance logging tools to handle tens of
+      * Developed high performance logging tools to handle tens of
         thousands of transactions per second from many networked
         components (C++).
 
@@ -74,12 +74,13 @@ UIUC, Bachelor of Science in Computer Science, 2003
      for a VoIP system for small businesses  (C++).
 
 #### Research Assistant, Senior Design, UIUC, 2003 ####
-   * QoS for the Apache Web server (C++).
+   * QoS for the Apache Web server (C).
+   * Implemented web server that supports out of order requests (C++).
    * Probabilistic scheduler for the Linux kernel (C).
-   * roaming protocol for 802.11a/b networks for NetBSD (C).
+   * Roaming protocol for 802.11a/b networks for NetBSD (C).
 
 #### Personal Research ####
-  * used and implemented and optimized, neural networks, genetic
+  * Used and implemented and optimized, neural networks, genetic
     algorithms, Markov chains, and Bayes inference algorithms,
     over gigabytes of data entirely for fun  (mostly Haskell, some C).
 
