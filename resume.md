@@ -42,7 +42,7 @@ UIUC, Bachelor of Science in Computer Science, 2003
          * Device driver framework (C).
          * Byte code for low memory rpc (Haskell targeting many
            languages).
-         * declartive C objects with C++ compatible v-tables,
+         * Declartive C objects with C++ compatible v-tables,
            multiple facets, disjoint inheritance trees in single heap 
            node. Less then 500 bytes of RO arm object code.
       * tools
