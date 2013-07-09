@@ -44,7 +44,7 @@ UIUC, Bachelor of Science in Computer Science, 2003
            languages).
          * Declartive C objects with C++ compatible v-tables,
            multiple facets, disjoint inheritance trees in single heap 
-           node. Less then 500 bytes of RO arm object code.
+           node. Less then 500 bytes of RO arm object code (C).
       * tools
          * IDL compiler (Haskell).
          * Strace tools for on device debugging (Haskell and Lua).
