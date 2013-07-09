@@ -14,7 +14,7 @@ love difficult problems, like debugging an image built from over
 9m lines of code on unstable hardware, or optimizing code paths
 between heterogeneous cores.  For fun I enjoy working with AI
 algorithms like back-propagation, Bayes inference, and Markov models.
-I am dedicated to writing bug free code, and I have created a unit
+I am dedicated to writing bug-free code, and I have created a unit
 test coverage framework that simulates every exception and gives
 developers tools to achieve 100% code and branch coverage.  I would
 love to work with a highly skilled and motivated team on difficult
@@ -46,12 +46,12 @@ UIUC, Bachelor of Science in Computer Science, 2003
            multiple facets, disjoint inheritance trees in single heap 
            node. Less then 500 bytes of RO arm object code (C).
       * tools
-         * IDL compiler (Haskell).
+         * IDL compiler (Haskell targeting C/C++).
          * Strace tools for on device debugging (Haskell and Lua).
          * Elf manipulation tool for post build image modification
            (Lua).
          * IDL based component and test generation tool for rapid
-           prototyping (Haskell + Lua).
+           prototyping (Haskell + Lua targeting C/C++).
          * Module configuration tool (Lua).
       * optimizations
          * Assembly optimizations for RPC invocations from user to
