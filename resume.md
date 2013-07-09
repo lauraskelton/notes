@@ -6,11 +6,11 @@ Encinitas CA 92024
 aeyakovenko@gmail.com  
 
 ### SUMMARY ###
-* 10 years of experience.
+* Software developer with 10 years of experience.
 * Fluent in C, Haskell, Lua, Make
-* Proficient with C++,Python, Ruby, Clojure (any lisp variant), BASH,
+* Proficient with C++,Python, Ruby, Clojure (any Lisp variant), BASH,
   Nemerle (any ML variant), and some assembly (arm, hexagon).
-* Debugging with T32 and GDB with heterogeneous cores in a multi OS 
+* Debugged with T32 and GDB with heterogeneous cores in a multi OS 
   environment.
 * Worked on projects with over 9m lines of code.
 * Developed micro-kernel and monolithic OS components.
