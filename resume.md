@@ -7,10 +7,10 @@ aeyakovenko@gmail.com
 
 
 I am a software developer with over 10 years of experience.  I love
-programing and learning programming languages.  While I prefer 
-towards C, Haskell, and Lua,  I have developed in C++, make, python,
-bash, clojure, ruby, nemerle, and a bit of arm and hexagon assembly.
-I love difficult problems, like debugging an image built from over
+programing and learning programming languages.  While I prefer C,
+Haskell, and Lua,  I have developed in C++, make, python, bash,
+clojure, ruby, nemerle, and a bit of arm and hexagon assembly.  I
+love difficult problems, like debugging an image built from over
 9m lines of code on unstable hardware, or optimizing code paths
 between heterogeneous cores.  For fun I enjoy working with AI
 algorithms like back-propagation, Bayes inference, and Markov models.
