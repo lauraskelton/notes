@@ -6,20 +6,20 @@ Encinitas CA 92024
 aeyakovenko@gmail.com  
 
 
-I have over 10 years of software development experience. I've done
-assembly level debugging on developing hardware on an image built
-from over 9m lines of code.  I am completely language agnostic,
-actively use C, Haskell, Lua, and make, and I've written between
-1k and 10k loc in python, bash, clojure, ruby, nemerle, and a bit
-of arm and hexagon assembly.  I actively develop on Linux, osx,
-windows and cygwin, and I've implemented large portions of an embedded
-OS for mobile devices.  I designed a declarative object framework
-in C with C++ compatible v-tables, multiple facets - weak references
-and disjoint inheritance trees on a single heap node -  that fits
-in less then 500 bytes of RO arm object code.  I designed a unit
-test framework that simulates every exception to get near 100%
-code and branch coverage. For fun I enjoy working with AI algorithms,
-like back-propagation, Bayes inference, and Markov models.
+I am a software developer with over 10 years of experience.  I love
+programing and learning programming languages.  While I prefer 
+towards C, Haskell, and Lua,  I have developed in C++, make, python,
+bash, clojure, ruby, nemerle, and a bit of arm and hexagon assembly.
+I love difficult problems, like debugging an image built from over
+9m lines of code on unstable hardware, or optimizing code paths
+between heterogeneous cores.  For fun I enjoy working with AI
+algorithms like back-propagation, Bayes inference, and Markov models.
+I am dedicated to writing bug free code, and I have created a unit
+test coverage framework that simulates every exception and gives
+developers tools to achieve 100% code and branch coverage.  I would
+love to work with a highly skilled and motivated team on difficult
+problems.
+
 
 ### EDUCATION ###
 UIUC, Bachelor of Science in Computer Science, 2003
@@ -42,6 +42,9 @@ UIUC, Bachelor of Science in Computer Science, 2003
          * Device driver framework (C).
          * Byte code for low memory rpc (Haskell targeting many
            languages).
+         * declartive C objects with C++ compatible v-tables,
+           multiple facets, disjoint inheritance trees in single heap 
+           node. Less then 500 bytes of RO arm object code.
       * tools
          * IDL compiler (Haskell).
          * Strace tools for on device debugging (Haskell and Lua).
