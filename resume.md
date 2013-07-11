@@ -9,13 +9,13 @@ aeyakovenko@gmail.com
    * Software developer with 10 years of experience.
    * Fluent in C, C++, Haskell, Lua, Make.
    * Proficient in Python, Ruby, Clojure (a Lisp variant), BASH,
-     Nemerle (a ML variant), and some assembly (ARM, hexagon).
+     Nemerle (an ML variant), and some assembly (ARM, hexagon).
    * Years of experience debugging heterogeneous cores in a multi-OS
      environment using T32 and GDB.
    * Worked on projects of all sizes (some over 9m lines of code).
-   * Developed OS components for both a micro-kernel and monolithic
-     OSes.
-   * Worked with Windows, Linux, Android, QNX, Cygwin, OSX, NetBSD.
+   * Developed components for both a micro-kernel and monolithic
+     operating systems.
+   * Developed on Windows, Linux, Android, QNX, Cygwin, OSX, NetBSD.
    * Committed to bug-free code via automation and 100% code coverage.
    * Enjoy developing AI algorithms, back-propagation, Markov models,
      Bayes inference.
@@ -37,11 +37,11 @@ aeyakovenko@gmail.com
      Qualcomm's mobile operating system.
    * Developed a declarative object library for C with C++ compatible
      v-tables, multiple facets, weak references, disjoint inheritance
-     trees in a single heap node - in less then 500 bytes of RO arm 
+     trees in a single heap node - in less then 500 bytes of RO arm
      object code.
    * Developed a tool for tracing system calls in BREW with an 
      embedded Lua interpreter as a programmable front end.
-   * Developed tools for manipulating symbols in image files for post
+   * Developed tools for manipulating symbols in execultables for post
      build customization.
    * Developed a prototype and test generation tool for rapid
      development of BREW components.
@@ -61,16 +61,16 @@ aeyakovenko@gmail.com
      for a VoIP system for small businesses.
 
 #### Research Assistant, Senior Design, UIUC, 2003 ####
-   * Implemented a web server that supports out of order requests.
-   * Implemented a probabilistic scheduler for the Linux kernel.
+   * Developed a web server that supports out of order requests.
+   * Developed a probabilistic scheduler for the Linux kernel.
    * Implemented a roaming protocol for 802.11a/b networks for NetBSD.
 
 #### Personal Research ####
-  * Used and implemented and optimized, neural networks, genetic
+  * Used implemented and optimized, neural networks, genetic
     algorithms, Markov chains, and Bayes inference algorithms,
     over gigabytes of data entirely for fun.
 
 ### HOBBIES ###
-   * Underwater Hockey, alternate for 2008 USA Men's Elite team.
+   * Underwater Hockey - alternate for 2008 USA Men's Elite team.
    * Ironman triathlon.
    * Surfing.
