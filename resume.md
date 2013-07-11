@@ -7,15 +7,15 @@ aeyakovenko@gmail.com
 
 ### SUMMARY ###
 * Software developer with 10 years of experience.
-* Fluent in C, Haskell, Lua, Make
-* Proficient with C++,Python, Ruby, Clojure (any Lisp variant), BASH,
+* Fluent in C, C++, Haskell, Lua, Make.
+* Proficient in Python, Ruby, Clojure (any Lisp variant), BASH,
   Nemerle (any ML variant), and some assembly (arm, hexagon).
-* Debugged with T32 and GDB with heterogeneous cores in a multi OS 
-  environment.
-* Worked on projects with over 9m lines of code.
+* Years of experience debugging heterogeneous cores in a multi-OS
+  environment using T32 and GDB.
+* Worked on projects of all sizes (some over 9m lines of code).
 * Developed micro-kernel and monolithic OS components.
 * Worked with Windows, Linux, Android, QNX, cygwin, OSX, NetBSD.
-* Committed to bug free code via automation and 100% code and branch 
+* Committed to bug free code via automation and 100% code and branch
   coverage.
 * Enjoy developing AI algorithms, back-propagation, Markov models
   Bayes inference.
@@ -70,7 +70,7 @@ University of Illinois at Urbana-Champaign, Bachelor of Science in Computer Scie
    * Founding member of a web platform for managing donations.
    * Web backend developer. (Haskell)
 
-#### Fonder/Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
+#### Founder/Developer, Alescere LLC, Lisle IL, 2001 to 2003. ####
    * Founding member of a VoIP startup.
    * Implemented SIP and RTP protocol stacks, and server components
      for a VoIP system for small businesses.  (C++)
