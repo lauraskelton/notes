@@ -16,7 +16,8 @@ aeyakovenko@gmail.com
    * Developed components for both a micro-kernel and monolithic
      operating systems.
    * Developed on Windows, Linux, Android, QNX, Cygwin, OSX, NetBSD.
-   * Committed to bug-free code via automation and 100% code coverage.
+   * Committed to bug-free code through clean build system, automation
+     and 100% code coverage.
    * Enjoy developing AI algorithms, back-propagation, Markov models,
      Bayes inference.
 
