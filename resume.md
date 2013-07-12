@@ -16,8 +16,8 @@ aeyakovenko@gmail.com
    * Developed components for both a micro-kernel and monolithic
      operating systems.
    * Developed on Windows, Linux, Android, QNX, Cygwin, OSX, NetBSD.
-   * Committed to bug-free code through clean build system, automation
-     and 100% code coverage.
+   * Committed to bug-free code through a clean build system, proper 
+     version control usage, automation and 100% code coverage.
    * Enjoy developing AI algorithms, back-propagation, Markov models,
      Bayes inference.
 
@@ -34,6 +34,8 @@ aeyakovenko@gmail.com
      on DSP from the applicatin processor.
    * Developed an interface description language compiler for 
      bridging environments in a memory effecient way.
+   * Developed build system plugins for unit testing and verifying 
+     code 100% coverage.
    * Developed a capability based application framework for BREW -
      Qualcomm's mobile operating system.
    * Developed a declarative object library for C with C++ compatible
