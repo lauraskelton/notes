@@ -29,7 +29,7 @@ aeyakovenko@gmail.com
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * Developed a bridge between the DSP co-processor and application 
      processor for high performance hetergenous compute applictions. 
-     2 patents pending and ported to Android, Windows and QNX.
+     Two patents pending and ported to Android, Windows and QNX.
    * Developed a dynamic module framework for loading shared objects 
      on DSP from the applicatin processor.
    * Developed an interface description language compiler for 
