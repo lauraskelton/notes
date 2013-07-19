@@ -36,7 +36,7 @@ aeyakovenko@gmail.com
    * Developed an interface description language compiler for 
      bridging environments in a memory efficient way.
    * Developed build system plugins for unit testing and verifying 
-     code 100% coverage.
+     code coverage.
    * Developed a capability based application framework for BREW -
      Qualcomm's mobile operating system.
    * Developed a declarative object library for C with C++ compatible
