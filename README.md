@@ -235,5 +235,4 @@ highlight DiffDelete term=reverse cterm=bold ctermbg=red ctermfg=black
 :au BufNewFile,BufRead /*kernel* set tabstop=8
 :au BufNewFile,BufRead /*kernel* set shiftwidth=8
 :au BufNewFile,BufRead /*kernel* set noexpandtab
-:au BufNewFile,BufRead /*kernel* set tabstop=8
 ```
