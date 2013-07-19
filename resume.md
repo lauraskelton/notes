@@ -28,12 +28,13 @@ aeyakovenko@gmail.com
 ### WORK EXPERIENCE ###
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * Developed a bridge between the DSP co-processor and application 
-     processor for high performance hetergenous compute applictions. 
+     processor for high performance heterogeneous compute 
+     applications.
      Two patents pending and ported to Android, Windows and QNX.
    * Developed a dynamic module framework for loading shared objects 
-     on DSP from the applicatin processor.
+     on DSP from the application processor.
    * Developed an interface description language compiler for 
-     bridging environments in a memory effecient way.
+     bridging environments in a memory efficient way.
    * Developed build system plugins for unit testing and verifying 
      code 100% coverage.
    * Developed a capability based application framework for BREW -
@@ -44,7 +45,7 @@ aeyakovenko@gmail.com
      object code.
    * Developed a tool for tracing system calls in BREW with an 
      embedded Lua interpreter as a programmable front end.
-   * Developed tools for manipulating symbols in execultables for post
+   * Developed tools for manipulating symbols in executables for post
      build customization.
    * Developed a prototype and test generation tool for rapid
      development of BREW components.
