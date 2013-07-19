@@ -70,9 +70,9 @@ aeyakovenko@gmail.com
    * Implemented a roaming protocol for 802.11a/b networks for NetBSD.
 
 #### Personal Research ####
-  * Used implemented and optimized, neural networks, genetic
-    algorithms, Markov chains, and Bayes inference algorithms,
-    over gigabytes of data entirely for fun.
+  * Developed neural networks, genetic algorithms, Markov models, and
+    Bayes inference algorithms, to process gigabytes of data entirely
+    for fun.
 
 ### HOBBIES ###
    * Underwater Hockey - alternate for 2008 USA Men's Elite team.
