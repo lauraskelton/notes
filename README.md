@@ -208,6 +208,21 @@ $D:$(wildcard *.cabal)
 .vimrc
 ------
 ```VimL
+;remembering cursor position between sessions
+:set viminfo='10,\"100,:20,%,n~/.viminfo
+      
+function! ResCur()
+  if line("'\"") <= line("$")
+    normal! g`"
+    return 1
+  endif
+endfunction
+      
+augroup resCur
+  autocmd!
+  autocmd BufWinEnter * call ResCur()
+augroup END
+
 :syntax on
 :set nowrapscan
 :set autoindent
