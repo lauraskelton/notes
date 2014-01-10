@@ -208,7 +208,7 @@ $D:$(wildcard *.cabal)
 .vimrc
 ------
 ```VimL
-;remembering cursor position between sessions
+"remembering cursor position between sessions
 :set viminfo='10,\"100,:20,%,n~/.viminfo
       
 function! ResCur()
