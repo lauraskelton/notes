@@ -1,6 +1,13 @@
 notes
 =====
 
+printing all the gcc defines
+----------------------------
+
+```bash
+gcc -dM -E - < /dev/null
+```
+
 foldr map and curry in the C preprocessor language
 --------------------------------------------------
 
