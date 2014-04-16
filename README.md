@@ -1,5 +1,11 @@
 notes
 =====
+cgdb, highlight current line
+----------------------------
+
+```VimL
+:hi SelectedLineNr cterm=reverse
+```
 
 printing all the gcc defines
 ----------------------------
