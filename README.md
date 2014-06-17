@@ -1,5 +1,15 @@
 notes
 =====
+
+disable warnings in gcc
+-----------------------
+
+```C
+#pragma GCC system_header
+```
+
+works great for generated code.
+
 cgdb, highlight current line
 ----------------------------
 
