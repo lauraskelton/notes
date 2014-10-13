@@ -12,8 +12,8 @@ with a focus on performance and optimization for Qualcomm chipsets.
  
 Education                              | Skills                                
 ---------------------------------------|----------------------------------------
-University of Illinois Urbana-Champaign| Qualcomm MSMs, embedded kernels, Linux 
-Bachelor of Science Computer Science,  | ASICs, System MMUs, C, C++, Haskell,
+University of Illinois Urbana-Champaign| Qualcomm MSMs, Embedded Kernels, Linux,
+Bachelor of Science Computer Science,  | Andriod, System MMUs, C, C++, Haskell,
 2003                                   | Lua, Make, Python, Ruby.                          
 
 
