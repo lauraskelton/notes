@@ -1,10 +1,10 @@
 ANATOLY YAKOVENKO
 -----------------
 
-PO Box 426 
-Solana Beach C, 92075 
-(858) 220-6902 
-aeyakovenko@gmail.com 
+PO Box 426   
+Solana Beach C, 92075   
+(858) 220-6902   
+aeyakovenko@gmail.com   
 
 ### SUMMARY ###
 
