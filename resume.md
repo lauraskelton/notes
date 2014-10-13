@@ -10,12 +10,12 @@ Software developer with over 10 years of experience and multiple
 [patents], working on embedded operating systems including [Android]
 with a focus on performance and optimization for Qualcomm chipsets.
  
-Education                   | Skills                           
---------------------------------------------------------------:
-University of Illinois at   | Qualcomm MSMs, embedded kernels, 
-Urbana-Champaign,           | Linux, ASICs, System MMUs, C,    
-Bachelor of Science         | C++, Haskell, Lua, Make, Python, 
-Computer Science, 2003      | Ruby.                            
+|Education                   | Skills                           |
+|--------------------------------------------------------------:|
+|University of Illinois at   | Qualcomm MSMs, embedded kernels, |
+|Urbana-Champaign,           | Linux, ASICs, System MMUs, C,    |
+|Bachelor of Science         | C++, Haskell, Lua, Make, Python, |
+|Computer Science, 2003      | Ruby.                            |
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
