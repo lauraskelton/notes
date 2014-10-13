@@ -7,13 +7,13 @@ aeyakovenko@gmail.com
 
 ### SUMMARY ###
 
-Software developer with over 10 years of experience, with over 7
-years on numerous embedded operating systems on Qualcomm chipsets.
-Filed two patents.  Language agnostic, with many years of working
-with C, C++, Haskell, Lua, Make, Python, Ruby.  Worked on projects
-of all sizes some over 9m lines of code.  Committed to bug-free
-code through a clean build system, proper version control usage,
-automation and code coverage.
+Software developer with over 10 years of experience. Over 7 years
+on numerous embedded operating systems on Qualcomm chipsets, with
+a focus on performance and optimization.  Filed two patents.  Language
+agnostic, with many years of working with C, C++, Haskell, Lua,
+Make, Python, Ruby.  Worked on projects of all sizes some over 9m
+lines of code.  Committed to bug-free code through a clean build
+system, proper version control usage, automation and code coverage.
 
 ### EDUCATION ###
    * University of Illinois at Urbana-Champaign, Bachelor of Science
@@ -23,8 +23,8 @@ automation and code coverage.
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * Lead engineer of FastRPC, a bridge between the DSP co-processor
      and application processor for high performance applications, on
-     Windows, Qnx, and [Android].  Two patents ([20140136817],
-     [20140096148]).
+     Windows, Qnx, and [Android].  Two patents [20140136817],
+     [20140096148].
    * Lead engineer on various tools for [Hexagon SDK].
    * Lead engineer an interface description language compiler for 
      bridging environments in a memory efficient way.
@@ -64,9 +64,8 @@ automation and code coverage.
   * Neural Networks, genetic algorithms, Markov models, and
     Bayes inference algorithms.
 
-### Links ###
-   [20140136817]: https://www.google.com/patents/US20140136817
-   [20140096148]: https://www.google.com/patents/US20140096148
-   [Android]: https://www.codeaurora.org/cgit/quic/le/kernel/msm/tree/drivers/char/adsprpc.c?h=msm-3.4
-   [Hexagon SDK]: https://developer.qualcomm.com/mobile-development/maximize-hardware/multimedia-optimization-hexagon-sdk
+[20140136817]: https://www.google.com/patents/US20140136817
+[20140096148]: https://www.google.com/patents/US20140096148
+[Android]: https://www.codeaurora.org/cgit/quic/le/kernel/msm/tree/drivers/char/adsprpc.c?h=msm-3.4
+[Hexagon SDK]: https://developer.qualcomm.com/mobile-development/maximize-hardware/multimedia-optimization-hexagon-sdk
 
