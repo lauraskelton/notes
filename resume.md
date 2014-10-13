@@ -10,18 +10,12 @@ Software developer with over 10 years of experience and multiple
 [patents], working on embedded operating systems including [Android]
 with a focus on performance and optimization for Qualcomm chipsets.
  
-|Education                   | Skills                           |
-|----------------------------|---------------------------------:|
-|University of Illinois at   | Qualcomm MSMs, embedded kernels, |
-|Urbana-Champaign,           | Linux, ASICs, System MMUs, C,    |
-|Bachelor of Science         | C++, Haskell, Lua, Make, Python, |
-|Computer Science, 2003      | Ruby.                            |
+Education                              | Skills                                
+---------------------------------------|-------------------------------------- :
+University of Illinois Urbana-Champaign| Qualcomm MSMs, embedded kernels, Linux 
+Bachelor of Science Computer Science,  | ASICs, System MMUs, C, C++, Haskell,
+2003                                   | Lua, Make, Python, Ruby.                          
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ### WORK EXPERIENCE ###
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
