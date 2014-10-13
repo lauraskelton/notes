@@ -23,7 +23,7 @@ system, proper version control usage, automation and code coverage.
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * Lead engineer of FastRPC, a bridge between the DSP co-processor
      and application processor for high performance applications, on
-     Windows, Qnx, and [Android].  Two patents [20140136817],
+     Windows, Qnx, and [Android].  Patents: [20140136817], 
      [20140096148].
    * Lead engineer on various tools for [Hexagon SDK].
    * Lead engineer an interface description language compiler for 
