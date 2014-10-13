@@ -17,6 +17,12 @@ Urbana-Champaign,           | Linux, ASICs, System MMUs, C,
 Bachelor of Science         | C++, Haskell, Lua, Make, Python, 
 Computer Science, 2003      | Ruby.                            
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### WORK EXPERIENCE ###
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
    * Lead engineer of FastRPC, a bridge between the DSP co-processor
