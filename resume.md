@@ -12,8 +12,9 @@ with a focus on performance and optimization for Qualcomm processors.
 
 ### Skills
 
-Embedded Operating Systems, Linux Kernel, Android, System MMUs, C,
-C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, gdb, Trace32.
+Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs,
+System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python,
+Ruby, Git, Perforce, gdb, Trace32.
 
 
 ### WORK EXPERIENCE
