@@ -1,8 +1,8 @@
 ANATOLY YAKOVENKO
 -----------------
-852 Dewitt  
-Encinitas CA 92024  
-(858) 523-8659  
+P.O. Box 426
+Solana Beach CA, 92075
+(858) 220-6902
 aeyakovenko@gmail.com  
 
 ### SUMMARY ###
