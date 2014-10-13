@@ -8,13 +8,12 @@ aeyakovenko@gmail.com
 
 Software developer with over 10 years of experience and multiple
 [patents], working on embedded operating systems including [Android]
-with a focus on performance and optimization for Qualcomm chipsets.
- 
-Education                              | Skills                                
----------------------------------------|----------------------------------------
-University of Illinois Urbana-Champaign| Qualcomm MSMs, Embedded Kernels, Linux,
-Bachelor of Science Computer Science,  | Andriod, System MMUs, C, C++, Haskell,
-2003                                   | Lua, Make, Python, Ruby.                          
+with a focus on performance and optimization for Qualcomm processors.
+
+Skills                                
+-------
+Embedded Operating Systems, Linux Kernel, Android, System MMUs, C,
+C++, Haskell, Lua, Make, Python, Ruby.
 
 
 ### WORK EXPERIENCE ###
@@ -50,17 +49,21 @@ Bachelor of Science Computer Science,  | Andriod, System MMUs, C, C++, Haskell,
      components
 
 #### Alescere LLC, Lisle IL, 2001 to 2003. ####
-   * Implemented SIP and RTP protocol stacks, and server components
-     for a VoIP system for small businesses.
+   * SIP and RTP protocol stacks, and server components for a VoIP system for
+     small businesses
 
 #### Research Assistant, University of Illinois at Urbana-Champaign, 2003 ####
-   * Web server that supports QoS for HTTP requests.
-   * Probabilistic scheduler for the Linux kernel.
-   * Roaming protocol for 802.11a/b networks for NetBSD.
+   * Web server that supports QoS for HTTP requests
+   * Probabilistic scheduler for the Linux kernel
+   * Roaming protocol for 802.11a/b networks for NetBSD
 
 #### Personal Research ####
-  * Neural Networks, genetic algorithms, Markov models, and
-    Bayes inference algorithms.
+   * Neural Networks, genetic algorithms, Markov models, and
+     Bayes inference algorithms
+
+Education                              
+---------
+University of Illinois Urbana-Champaign Bachelor of Science, Computer Science, 2003
 
 [20140136817]: https://www.google.com/patents/US20140136817
 [20140096148]: https://www.google.com/patents/US20140096148
