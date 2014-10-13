@@ -8,13 +8,9 @@ aeyakovenko@gmail.com
 
 ### SUMMARY ###
 
-Software developer with over 10 years of experience. Over 7 years
-on numerous embedded operating systems on Qualcomm chipsets, with
-a focus on performance and optimization.  Filed two patents.  Language
-agnostic, with many years of working with C, C++, Haskell, Lua,
-Make, Python, Ruby.  Worked on projects of all sizes some over 9m
-lines of code.  Committed to bug-free code through a clean build
-system, proper version control usage, automation and code coverage.
+Software developer with over 10 years of experience and multiple
+[patents], working on embedded operating systems including [Android]
+with a focus on performance and optimization for Qualcomm chipsets.
 
 ### EDUCATION ###
    * University of Illinois at Urbana-Champaign, Bachelor of Science
@@ -69,4 +65,5 @@ system, proper version control usage, automation and code coverage.
 [20140096148]: https://www.google.com/patents/US20140096148
 [Android]: https://www.codeaurora.org/cgit/quic/le/kernel/msm/tree/drivers/char/adsprpc.c?h=msm-3.4
 [Hexagon SDK]: https://developer.qualcomm.com/mobile-development/maximize-hardware/multimedia-optimization-hexagon-sdk
+[patents]: https://www.google.com/search?tbo=p&tbm=pts&hl=en&q=ininventor:%22Anatoly+E.+Yakovenko%22
 
