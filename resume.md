@@ -11,7 +11,7 @@ Software developer with over 10 years of experience and multiple
 with a focus on performance and optimization for Qualcomm chipsets.
  
 Education                              | Skills                                
----------------------------------------|---------------------------------------:
+---------------------------------------|----------------------------------------
 University of Illinois Urbana-Champaign| Qualcomm MSMs, embedded kernels, Linux 
 Bachelor of Science Computer Science,  | ASICs, System MMUs, C, C++, Haskell,
 2003                                   | Lua, Make, Python, Ruby.                          
