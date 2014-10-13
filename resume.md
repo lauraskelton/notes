@@ -1,33 +1,33 @@
 ANATOLY YAKOVENKO
 -----------------
 
-(858) 220-6902
+(858) 220-6902   
 aeyakovenko@gmail.com   
 
-### SUMMARY ###
+### SUMMARY
 
 Software developer with over 10 years of experience and multiple
 [patents], working on embedded operating systems including [Android]
 with a focus on performance and optimization for Qualcomm processors.
 
-Skills                                
--------
+### Skills
+
 Embedded Operating Systems, Linux Kernel, Android, System MMUs, C,
-C++, Haskell, Lua, Make, Python, Ruby.
+C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, gdb, Trace32.
 
 
-### WORK EXPERIENCE ###
-#### Engineer, Qualcomm, San Diego CA, December 2003 to Present. ####
+### WORK EXPERIENCE
+#### Engineer, Qualcomm, San Diego CA, December 2003 to Present.
    * Lead engineer of FastRPC, a bridge between the DSP co-processor
      and application processor for high performance applications, on
-     Windows, Qnx, and [Android].  Patents: [20140136817], 
+     Windows, Qnx, and [Android].  Patents: [20140136817],
      [20140096148]
    * Lead engineer on various tools for [Hexagon SDK]
-   * Lead engineer an interface description language compiler for 
+   * Lead engineer an interface description language compiler for
      bridging environments in a memory efficient way
    * Dynamic linker for loading dynamic processes on
      Qualcomms embedded DSP OS
-   * Dynamic module framework for loading shared objects 
+   * Dynamic module framework for loading shared objects
      on DSP from the application processor
    * Build system plugins for unit testing and verifying code
      coverage
@@ -36,7 +36,7 @@ C++, Haskell, Lua, Make, Python, Ruby.
    * Declarative full featured object library for C with C++
      compatible v-tables, in less then 500 bytes of RO arm object
      code
-   * Strace style tool for tracing system calls in BREW with an 
+   * Strace style tool for tracing system calls in BREW with an
      embedded Lua interpreter as a programmable front end
    * Tools for manipulating symbols in elf executables for post
      build customization
@@ -48,21 +48,21 @@ C++, Haskell, Lua, Make, Python, Ruby.
      thousands of transactions per second from many networked
      components
 
-#### Alescere LLC, Lisle IL, 2001 to 2003. ####
+#### Alescere LLC, Lisle IL, 2001 to 2003
+   * Founding member of a VOIP startup
    * SIP and RTP protocol stacks, and server components for a VoIP system for
      small businesses
 
-#### Research Assistant, University of Illinois at Urbana-Champaign, 2003 ####
+#### Research Assistant, University of Illinois at Urbana-Champaign, 2003
    * Web server that supports QoS for HTTP requests
    * Probabilistic scheduler for the Linux kernel
    * Roaming protocol for 802.11a/b networks for NetBSD
 
-#### Personal Research ####
+#### Personal Research
    * Neural Networks, genetic algorithms, Markov models, and
      Bayes inference algorithms
 
-Education                              
----------
+### Education
 University of Illinois Urbana-Champaign Bachelor of Science, Computer Science, 2003
 
 [20140136817]: https://www.google.com/patents/US20140136817
