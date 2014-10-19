@@ -1,27 +1,27 @@
 ANATOLY YAKOVENKO
 -----------------
 
-(858) 220-6902   
 aeyakovenko@gmail.com   
 
 ### SUMMARY
 
 Software developer with over 10 years of experience and multiple
-[patents], working on embedded operating systems including [Android]
-with a focus on performance and optimization for Qualcomm processors.
+[patents], working on embedded operating systems including [Linux
+Kernel] with a focus on performance and optimization for Qualcomm
+ARM and DSP processors.
 
 ### Skills
 
 Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs,
 System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python,
-Ruby, Git, Perforce, gdb, Trace32.
+Ruby, Git, Perforce, GDB, Trace32.
 
 
 ### WORK EXPERIENCE
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present.
    * Lead engineer of FastRPC, a bridge between the DSP co-processor
-     and application processor for high performance applications, on
-     Windows, Qnx, and [Android].  Patents: [20140136817],
+     and ARM processor for high performance applications, on
+     Windows, Qnx, Android and [Linux Kernel].  Patents: [20140136817],
      [20140096148]
    * Lead engineer on various tools for [Hexagon SDK]
    * Lead engineer an interface description language compiler for
@@ -68,7 +68,7 @@ University of Illinois Urbana-Champaign Bachelor of Science, Computer Science, 2
 
 [20140136817]: https://www.google.com/patents/US20140136817
 [20140096148]: https://www.google.com/patents/US20140096148
-[Android]: https://www.codeaurora.org/cgit/quic/le/kernel/msm/tree/drivers/char/adsprpc.c?h=msm-3.4
+[Linux Kernel]: https://www.codeaurora.org/cgit/quic/le/kernel/msm/tree/drivers/char/adsprpc.c?h=msm-3.4
 [Hexagon SDK]: https://developer.qualcomm.com/mobile-development/maximize-hardware/multimedia-optimization-hexagon-sdk
 [patents]: https://www.google.com/search?tbo=p&tbm=pts&hl=en&q=ininventor:%22Anatoly+E.+Yakovenko%22
 
