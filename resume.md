@@ -13,19 +13,21 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
 
 ### WORK EXPERIENCE
 #### Qualcomm, San Diego CA
-##### Senior Staff Engineer, 2011 to Present
-##### Staff Engineer, 2008 - 2011
-##### Senior Engineer, 2005 - 2008
-##### Engineer, 2003 - 2005
+##### Senior Staff Engineer, 2012 to Present
+##### Staff Engineer, 2008 - 2012
+##### Senior Engineer, 2006 - 2009
+##### Engineer, 2003 - 2006
    * Lead engineer of FastRPC, a bridge between the DSP co-processor and ARM processor for high performance applications, on Windows, Qnx, Android and [Linux Kernel].  Patents: [20140136817], [20140096148]
    * Lead engineer an interface description language compiler for [Hexagon SDK]
    * Dynamic linker for loading dynamic processes on Qualcomms embedded DSP OS
    * Dynamic module framework for loading shared objects on DSP from the application processor
    * Build system plugins for unit testing and verifying code coverage
-   * Capability based application framework for BREW - Qualcomm's mobile operating system
-   * Declarative full featured object library for C with C++ compatible v-tables, in less then 500 bytes of RO arm object code
+   * Capability based application framework for BREW - Qualcomm's Mobile Operating System
+   * COM IPC implementation for BREW
+   * IDL compiler with C/C++/Lua backends for BREW IPC
    * Strace style tool for tracing system calls in BREW with an embedded Lua interpreter as a programmable front end
    * Tools for manipulating symbols in elf executables for post build customization
+   * Declarative full featured object library for C with C++ compatible v-tables, in less then 500 bytes of RO arm object code
    * Prototype and test generation tool for rapid development of BREW components
    * Network components using SIP/HTTP/RTP and proprietary standards for QChat push to talk service
    * High performance logging tools to handle tens of thousands of transactions per second from many networked components
