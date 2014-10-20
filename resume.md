@@ -11,12 +11,10 @@ Software developer with over 10 years of experience and multiple [patents], work
 
 Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, GDB, Trace32.
 
-
 ### WORK EXPERIENCE
 #### Engineer, Qualcomm, San Diego CA, December 2003 to Present.
    * Lead engineer of FastRPC, a bridge between the DSP co-processor and ARM processor for high performance applications, on Windows, Qnx, Android and [Linux Kernel].  Patents: [20140136817], [20140096148]
-   * Lead engineer on various tools for [Hexagon SDK]
-   * Lead engineer an interface description language compiler for bridging environments in a memory efficient way
+   * Lead engineer an interface description language compiler for [Hexagon SDK]
    * Dynamic linker for loading dynamic processes on Qualcomms embedded DSP OS
    * Dynamic module framework for loading shared objects on DSP from the application processor
    * Build system plugins for unit testing and verifying code coverage
@@ -41,7 +39,7 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
    * Neural Networks, genetic algorithms, Markov models, and Bayes inference algorithms
 
 ### Education
-University of Illinois Urbana-Champaign Bachelor of Science, Computer Science, 2003
+#### University of Illinois Urbana-Champaign Bachelor of Science in Computer Science, 2003
 
 [20140136817]: https://www.google.com/patents/US20140136817
 [20140096148]: https://www.google.com/patents/US20140096148
