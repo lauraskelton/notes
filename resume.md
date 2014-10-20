@@ -7,12 +7,12 @@ aeyakovenko@gmail.com
 
 Software developer with over 10 years of experience and multiple [patents], working on embedded operating systems including [Linux Kernel] with a focus on performance and optimization for Qualcomm ARM and DSP processors.
 
-### Skills
+### SKILLS
 
 Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, GDB, Trace32.
 
 ### WORK EXPERIENCE
-#### Qualcomm, San Diego CA
+#### Qualcomm, San Diego, CA
 ##### Senior Staff Engineer, 2011 to Present
 ##### Staff Engineer, 2008 - 2011
 ##### Senior Engineer, 2005 - 2008
@@ -30,11 +30,13 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
    * Network components using SIP/HTTP/RTP and proprietary standards for QChat push to talk service
    * High performance logging tools to handle tens of thousands of transactions per second from many networked components
 
-#### Alescere LLC, Lisle IL, 2001 to 2003
+#### Alescere LLC, Lisle IL
+##### Co-Founder, 2001 to 2003
    * Founding member of a VOIP startup
    * SIP and RTP protocol stacks, and server components for a VoIP system for small businesses
 
-#### Research Assistant, University of Illinois at Urbana-Champaign, 2003
+#### University of Illinois at Urbana-Champaign
+##### Research Assistant, 2003
    * Web server that supports QoS for HTTP requests
    * Probabilistic scheduler for the Linux kernel
    * Roaming protocol for 802.11a/b networks for NetBSD
