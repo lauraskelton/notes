@@ -21,11 +21,11 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
    * IDL (Interface Description Language) compiler for [Hexagon SDK]
    * Dynamic linker for loading dynamic processes on Qualcomms embedded DSP OS
    * Dynamic module framework for loading shared objects on DSP from the application processor
-   * Capability based application framework for BREW - Qualcomm's Mobile Operating System
-   * COM IPC implementation for BREW
+   * Capability based application framework for BREW (Qualcomm's Mobile Operating System)
+   * Component Object Model IPC (Inter-Process Communication) implementation for BREW
    * IDL compiler with C/C++/Lua backends for BREW IPC
-   * Strace style tool for tracing system calls in BREW with an embedded Lua interpreter as a programmable front end
    * Elf manipulator with a DSL (Domain Specific Language) in Lua
+   * System call trace tool for BREW IPC with a Lua DSL.
    * Build system plugins for unit testing and verifying code coverage
    * Declarative full featured object library for C with C++ compatible v-tables, in less then 500 bytes of RO arm object code
    * Prototype and test generation tool for rapid development of BREW components
