@@ -7,9 +7,9 @@ aeyakovenko@gmail.com
 
 Software developer with over 10 years of experience and multiple [patents], working on embedded operating systems, leading projects and contributing to large groups including [Linux Kernel], with a focus on performance and optimization for Qualcomm ARM and DSP processors.
 
-### Skills
+### SKILLS
 
-Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, GDB, Trace32.
+Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, ARM, Hexagon DSP, C, C++, Haskell, Lua, Make, Python, Ruby, Git, Perforce, GDB, Trace32
 
 ### WORK EXPERIENCE
 #### Qualcomm, San Diego CA
@@ -33,10 +33,12 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
    * High performance logging tools to handle tens of thousands of transactions per second from many networked components
 
 #### Alescere LLC, Lisle IL, 2001 to 2003
+##### Co-Founder, 2001 to 2003
    * Founding member of a VOIP startup
    * SIP and RTP protocol stacks, and server components for a VoIP system for small businesses
 
-#### Research Assistant, University of Illinois at Urbana-Champaign, 2003
+#### University of Illinois at Urbana-Champaign
+##### Research Assistant, 2003
    * Web server that supports QoS for HTTP requests
    * Probabilistic scheduler for the Linux kernel
    * Roaming protocol for 802.11a/b networks for NetBSD
@@ -44,8 +46,9 @@ Embedded Operating Systems, Linux Kernel, Android, Qualcomm MSMs, System MMUs, A
 #### Personal Research
    * Neural Networks, Genetic Algorithms, Markov Models, and Bayes Inference Algorithms
 
-### Education
-#### University of Illinois Urbana-Champaign Bachelor of Science in Computer Science, 2003
+### EDUCATION
+#### Bachelor of Science in Computer Science
+##### University of Illinois Urbana-Champaign, 2003
 
 [20140136817]: https://www.google.com/patents/US20140136817
 [20140096148]: https://www.google.com/patents/US20140096148
